@@ -1,0 +1,11 @@
+{
+  "name": "CI_test2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "toru nakano <tr.n031@gmail.com>",
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "jquery": "^3.6.0"
+  }
+}
